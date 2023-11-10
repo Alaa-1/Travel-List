@@ -6,7 +6,6 @@ import Stats from "./components/Stats";
 
 function App() {
 	const [items, setItems] = useState([]);
-
 	return (
 		<div className="app">
 			<Logo />
